@@ -1,3 +1,5 @@
+const pacMen = []; // This array holds all the pacmen
+
 // This function returns an object with random values
 function setToRandom(scale) {
   return {
